@@ -5,7 +5,7 @@ la technologie Node.js, Mysql et swagger pour la génération d'une documentatio
 
 Avant toute chose, vous devez avoir un serveur mysql disponible.  
 Créer une base de donnée qui s'appelle "nodejs".  
-Et une table qui s'appelle : Members.  
+Et une table qui s'appelle : members.  
 Si vous souhaitez modifier ces informations, rendez-vous dans le fichier config.json.  
 
 ## LANCER LE SERVEUR
